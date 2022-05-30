@@ -1,0 +1,4 @@
+main_nation = "Main nation for sake of user agent"
+wa_nation = "Nation you have in the WA that you are endorsing from"
+password = "Password to said WA nation"
+point = "Nation you are cross endorsing on"

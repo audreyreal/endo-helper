@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "endo-helper"
+version = "0.1.0"
+description = ""
+authors = ["sweeze <mvwrob5@gmail.com>"]
+license = "OQL-1.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests-html = "^0.10.0"
+rtoml = "^0.8.0"
+xmltodict = "^0.13.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
